@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: http://derpface.org/
   specs:
     activemodel (4.1.7)
       activesupport (= 4.1.7)
