@@ -1,2 +1,5 @@
 # The default environment for this Ruby application is production
+HTTP_PROXY=http://squid.internal.secureworks.net:3128
+HTTPS_PROXY=http://squid.internal.secureworks.net:3128
+
 RACK_ENV=production
